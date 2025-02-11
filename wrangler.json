@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "aged-band-6a47",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9f55d391-be23-4939-b5ac-40afe0043552",
+      "database_name": "autumn-darkness-5f4d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
